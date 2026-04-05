@@ -1,11 +1,8 @@
 [
   {
     "id": "101", 
-    "url": "https://example.com/live/bein1.mpd",
-    "ua": "Mozilla/5.0...",
-    "ref": "https://referer.com",
-    "drm_type": "clearkey",
-    "drm_key": "1234567890abcdef1234567890abcdef:abcdef1234567890abcdef1234567890"
+    "url": "https://polished-snow-3145.meryemmh24.workers.dev/live/60080_.m3u8",
+
   },
   {
     "id": "102",
