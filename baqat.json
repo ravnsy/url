@@ -1,58 +1,18 @@
 [
   {
-    "name": "beIN Sports",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
+    "id": "101", 
+    "url": "https://example.com/live/bein1.mpd",
+    "ua": "Mozilla/5.0...",
+    "ref": "https://referer.com",
+    "drm_type": "clearkey",
+    "drm_key": "1234567890abcdef1234567890abcdef:abcdef1234567890abcdef1234567890"
   },
   {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
-    },
-  {
-    "name": "OSN Channels",
-    "logo": "https://cityupload.io/2026/04/1774974481388_76fa2.png"
+    "id": "102",
+    "url": "https://server.com/live/stream.m3u8",
+    "ua": "ExoPlayer",
+    "ref": "",
+    "drm_type": "none",
+    "drm_key": ""
   }
 ]
