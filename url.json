@@ -1,8 +1,11 @@
 [
   {
-    "id": "101", 
+    "id": "101",
     "url": "https://polished-snow-3145.meryemmh24.workers.dev/live/60080_.m3u8",
-
+    "ua": "Mozilla/5.0",
+    "ref": "",
+    "drm_type": "none",
+    "drm_key": ""
   },
   {
     "id": "102",
