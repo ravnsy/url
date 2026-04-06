@@ -2,14 +2,36 @@
   {
     "channel_id": "101",
     "servers": [
-      { "name": "FHD", "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8" },
-      { "name": "HD", "url": "https://example.com/bein1_hd.m3u8" }
+      {
+        "name": "FHD",
+        "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "referer": "https://www.alarabiya.net/",
+        "cookie": "sessionid=abc123; path=/",
+        "origin": "https://www.alarabiya.net",
+        "drm_license": "https://license.example.com/widevine",
+        "clearkey": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"tQ0bJV0WqD3R6Wt3K0Z8Dg\",\"kid\":\"1234567890abcdef\"}]}"
+      },
+      {
+        "name": "FHD",
+        "url": "http://het101b.ycn-redirect.com/live/918454578001/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "https://x.com/",
+        "cookie": "ggggg",
+        "origin": "gggg",
+        "drm_license": "ggg",
+        "clearkey": "ggg"
+      },
     ]
   },
   {
     "channel_id": "102",
     "servers": [
-      { "name": "FHD", "url": "https://example.com/bein2_fhd.m3u8" }
+      {
+        "name": "FHD",
+        "url": "https://example.com/bein2_fhd.m3u8",
+        "user_agent": "VLC/3.0"
+      }
     ]
   }
 ]
